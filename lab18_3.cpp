@@ -9,7 +9,7 @@ using namespace std;
 
 struct student{
 
-    //[Missing Code 1] Define struct student with four member (name ,id , gender, gpa);
+    //[Missing Code 1] Define struct student with four members (name ,id , gender, gpa);
     
 };
 
